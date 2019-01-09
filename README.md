@@ -5,6 +5,10 @@ Included is a list of presentations and links to those presentations given by th
 
 **Klein, R. A.** (2018). Introduction to Concepts in Deep Learning and Cross-validation. Workshop session presented at the RKTS Solid Science Training Workshop in Bordeaux, France. [https://osf.io/ya2n8/](https://osf.io/ya2n8/)
 
+**IJzerman, H.** (2018). La Thermorégulation Sociale : Ane Méta-analyse. Talk presented at CIPSLF Louvain 2018 (French Social Psychology Language Conference). [Link](https://www.dropbox.com/sh/ewg4bpwxuhez84v/AAAYljtfiZkVwMP_T7EZpkEga?dl=0)
+
+**IJzerman, H.** (2018). Social Thermoregulation: A Meta-Analysis. Talk presented at ESCAN Leiden 2018 (European Society for Cognitive and Affective Neuroscience). [Link](https://www.dropbox.com/s/69ponlhm7q6zyu8/ijzerman%20social%20thermo%20meta%20english%20%28install%20in%20one%20directory%29.zip?dl=0)
+
 - <a href="https://cipslf2018.sciencesconf.org/">CIPSLF Louvain 2018</a> 
 (French Social Psychology Language Conference): <a href="https://www.dropbox.com/sh/ewg4bpwxuhez84v/AAAYljtfiZkVwMP_T7EZpkEga?dl=0">La thermorégulation sociale : une méta-analyse</a> (IJzerman)
 
