@@ -1,6 +1,10 @@
 # presentations-core-lab
 Included is a list of presentations and links to those presentations given by the Core Lab. For zip files, please install all files in one directory and run the html file. 
 
+**Klein, R. A.** (2018). Many Labs 2: Investigating Variation in Replicability across Sample and Setting. Talk presented at the Integrity and Sharing of Science: Research Data seminar, Grenoble, France. [https://github.com/raklein/presentation-datadoct2018-ml2](https://github.com/raklein/presentation-datadoct2018-ml2)
+
+**Klein, R. A.** (2018). Introduction to Concepts in Deep Learning and Cross-validation. Workshop session presented at the RKTS Solid Science Training Workshop in Bordeaux, France. [https://osf.io/ya2n8/](https://osf.io/ya2n8/)
+
 - <a href="https://cipslf2018.sciencesconf.org/">CIPSLF Louvain 2018</a> 
 (French Social Psychology Language Conference): <a href="https://www.dropbox.com/sh/ewg4bpwxuhez84v/AAAYljtfiZkVwMP_T7EZpkEga?dl=0">La thermorégulation sociale : une méta-analyse</a> (IJzerman)
 
