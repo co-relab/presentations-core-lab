@@ -1,6 +1,8 @@
 # presentations-core-lab
 Included is a list of presentations and links to those presentations given by the Core Lab. For zip files, please install all files in one directory and run the html file. 
 
+**Klein, R. A.** (2019). Many Labs 2: Investigating replicability across samples and settings. Talk presented at the Society for Personality and Social Psychology annual conference, Portland, Oregon, USA. [https://github.com/raklein/presentation-spsp2019-ml2](https://github.com/raklein/presentation-spsp2019-ml2)
+
 **IJzerman, H.** (2018). Research workflow management. Talk presented at the Integrity and Sharing of Science: Research Data seminar, Grenoble, France. [Link](https://github.com/co-relab/presentations-core-lab/blob/master/ijzerman_datadoct.pdf)
 
 **Sarda, E.** (2018). Pratique de recherche discutables et crise de la réplication. Talk presented at the Integrity and Sharing of Science: Research Data seminar, Grenoble, France. [Link](https://github.com/co-relab/presentations-core-lab/blob/master/sarda_datadoct.pdf)
