@@ -1,5 +1,5 @@
 # presentations-core-lab
-Included is a list of presentations and links to those presentations given by the Core Lab. For zip files, please install all files in one directory and run the html file. 
+Included is a list of presentations and links to those presentations given by the Core Lab. For zip files, please install all files in one directory and run the html file. Lab members: You can edit this page directly on GitHub by clicking the pencil icon in the upper right. Simply upload your slides/files to GitHub or the OSF, then link them here (it's helpful to copy/paste and edit a prior entry).
 
 **Klein, R. A.** (2019). An Overview of Workflow Management: Using the Open Science Framework. Workshop presented as part of the Open Science Workshop, Grenoble, France. [https://osf.io/nxem8/](https://osf.io/nxem8/)
 
