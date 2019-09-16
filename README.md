@@ -3,9 +3,9 @@ Included is a list of presentations and links to those presentations given by th
 
 **Forscher, P. S.** (2019). Crowdsourcing psychological research with the Psychological Science Accelerator. Invited talk presented for the Northern Illinois University Psychology Department, Illinois, USA. [https://osf.io/6cqhn/](https://osf.io/6cqhn/)
 
-**Klein, R. A.** (2019). An Overview of Workflow Management: Using the Open Science Framework. Workshop presented as part of the Open Science Workshop, Grenoble, France. [https://osf.io/nxem8/](https://osf.io/nxem8/)
+**Klein, R. A.** (2019). An overview of workflow management: Using the Open Science Framework. Workshop presented as part of the Open Science Workshop, Grenoble, France. [https://osf.io/nxem8/](https://osf.io/nxem8/)
 
-**Klein, R. A.** (2019). Welcome to the Era of Big Psychology. Invited workshop presented as part of the Machine Learning: Applications to Clinical and Psychological Research Workshop, Rovereto, Italy. [https://github.com/raklein/presentation-rep-machine-learning-rovereto](https://github.com/raklein/presentation-rep-machine-learning-rovereto)
+**Klein, R. A.** (2019). Welcome to the era of big psychology. Invited workshop presented as part of the Machine Learning: Applications to Clinical and Psychological Research Workshop, Rovereto, Italy. [https://github.com/raklein/presentation-rep-machine-learning-rovereto](https://github.com/raklein/presentation-rep-machine-learning-rovereto)
 
 **Klein, R. A.** (2019). Many Labs 2: Investigating variation in replicability across sample and setting. Talk presented at the International Convention of Psychological Science, Paris, France. [https://github.com/raklein/presentation-spsp2019-ml2](https://github.com/raklein/presentation-spsp2019-ml2)
 
