@@ -1,7 +1,7 @@
 # presentations-core-lab
 Included is a list of presentations and links to those presentations given by the Core Lab. For zip files, please install all files in one directory and run the html file. Lab members: You can edit this page directly on GitHub by clicking the pencil icon in the upper right. Simply upload your slides/files to GitHub or the OSF, then link them here (it's helpful to copy/paste and edit a prior entry).
 
-**IJzerman, H.** (2019). ManyLabs 5: Testing pre-data collection peer review as an intervention to increase replicability. Talk presented at the 21st ESCON Transfer of Knowledge Conference, Bordeaux, France. [Link]()
+**IJzerman, H.** (2019). ManyLabs 5: Testing pre-data collection peer review as an intervention to increase replicability. Talk presented at the 21st ESCON Transfer of Knowledge Conference, Bordeaux, France. [Link](https://github.com/co-relab/presentations-core-lab/blob/master/ijzerman_escon2019.pdf)
 
 **IJzerman, H.** (2019). In-Mind Magazine. Talk presented at ZPID - the Leibniz Institute for Psychology Information, Trier, Germany. [https://www.psycharchives.org/handle/20.500.12034/2181](https://www.psycharchives.org/handle/20.500.12034/2181)
 
@@ -9,9 +9,9 @@ Included is a list of presentations and links to those presentations given by th
 
 **IJzerman, H.** (2019). Social thermoregulation in modern times: Using smartphones, sensors, and actuators. Talk presented at the Tech and Relationships conference, Annecy, France. [Link](https://github.com/co-relab/presentations-core-lab/blob/master/ijzerman_socialthermoannecy.pdf)
 
-**IJzerman, H.** (2019). Social thermoregulation: A meta-analysis. Talk presented at Tilburg University, Tilburg, The Netherlands. [Link]()
+**IJzerman, H.** (2019). Social thermoregulation: A meta-analysis. Talk presented at Tilburg University, Tilburg, The Netherlands. [Link](https://github.com/co-relab/presentations-core-lab/blob/master/ijzerman_meta.pdf)
 
-**IJzerman, H.** (2019). Social thermoregulation: A meta-analysis. Talk presented at Poitiers University, Poitiers, France. [Link]()
+**IJzerman, H.** (2019). Social thermoregulation: A meta-analysis. Talk presented at Poitiers University, Poitiers, France. [Link](https://github.com/co-relab/presentations-core-lab/blob/master/ijzerman_poitier_talk.pdf)
 
 **Forscher, P. S.** (2019). Crowdsourcing psychological research with the Psychological Science Accelerator. Invited talk presented for the Northern Illinois University Psychology Department, Illinois, USA. [https://osf.io/6cqhn/](https://osf.io/6cqhn/)
 
