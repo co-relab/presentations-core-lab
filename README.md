@@ -3,7 +3,7 @@ Included is a list of presentations and links to those presentations given by th
 
 **IJzerman, H.** (2019). In-Mind Magazine. Talk presented at ZPID - the Leibniz Institute for Psychology Information, Trier, Germany. [https://www.psycharchives.org/handle/20.500.12034/2181](https://www.psycharchives.org/handle/20.500.12034/2181)
 
-**IJzerman, H.** (2019). . []()
+**IJzerman, H.** (2019). Why open science is a necessity, not a luxury. Talk presented at the SENS lab, Grenoble, France. [Link](https://github.com/co-relab/presentations-core-lab/blob/master/ijzerman_repro_talk_UGA.pdf)
 
 
 
