@@ -1,6 +1,13 @@
 # presentations-core-lab
 Included is a list of presentations and links to those presentations given by the Core Lab. For zip files, please install all files in one directory and run the html file. Lab members: You can edit this page directly on GitHub by clicking the pencil icon in the upper right. Simply upload your slides/files to GitHub or the OSF, then link them here (it's helpful to copy/paste and edit a prior entry).
 
+**IJzerman, H.** (2019). In-Mind Magazine. Talk presented at ZPID - the Leibniz Institute for Psychology Information, Trier, Germany. [https://www.psycharchives.org/handle/20.500.12034/2181](https://www.psycharchives.org/handle/20.500.12034/2181)
+
+**IJzerman, H.** (2019). . []()
+
+
+
+
 **Forscher, P. S.** (2019). Crowdsourcing psychological research with the Psychological Science Accelerator. Invited talk presented for the Northern Illinois University Psychology Department, Illinois, USA. [https://osf.io/6cqhn/](https://osf.io/6cqhn/)
 
 **Klein, R. A.** (2019). An overview of workflow management: Using the Open Science Framework. Workshop presented as part of the Open Science Workshop, Grenoble, France. [https://osf.io/nxem8/](https://osf.io/nxem8/)
