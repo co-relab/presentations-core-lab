@@ -5,7 +5,7 @@ Included is a list of presentations and links to those presentations given by th
 
 **Azouaghe, S.** (2020). Psychologie et science ouverte en Afrique : pourquoi est-elle nécessaire et comment peut-on l’implanter ? - CIMQUSEF-16 Rabat, 12-10-2020. [Link](https://github.com/co-relab/presentations-core-lab/blob/master/AZOUAGHE_CIMQUSEF-16_2020.pdf)
 
-**Sparacio, A.** (2020). How to integrate GitHub in your workflow. Talk presented at the social axe meeting - Université Grenoble Alpes. [Link](https://github.com/co-relab/presentations-core-lab/blob/master/Sparacio_GitHub.pptx)
+**Sparacio, A.** (2020). How to integrate GitHub in your workflow. Talk presented at the social axe meeting - Université Grenoble Alpes. [Link](https://github.com/co-relab/presentations-core-lab/blob/master/Sparacio_GitHub_presentation.pptx)
 
 **IJzerman, H.** (2019). ManyLabs 5: Testing pre-data collection peer review as an intervention to increase replicability. Talk presented at the 21st ESCON Transfer of Knowledge Conference, Bordeaux, France. [Link](https://github.com/co-relab/presentations-core-lab/blob/master/ijzerman_escon2019.pdf)
 
