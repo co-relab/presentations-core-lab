@@ -5,6 +5,12 @@ Included is a list of presentations and links to those presentations given by th
 
 **CO-RE lab presentation template**. Standard PP template that members of the CO-RE lab use for their presentations and talks. Template is updated as of December 2020. [Link](https://github.com/co-relab/presentations-core-lab/blob/master/CORE%20LAB%20template%20%202020.pptx)
 
+**Dujols, O., Klein, R.A., Lindenberg, S.,** STRAEQ-2 team (a team of 152 authors), & IJzerman, H. (2020). Development and validation of the Social Thermoregulation, Risk Avoidance, and Eating Questionnaire - 2 (STRAEQ-2) [Poster session] held for 70 Years of Attachment Research: A Multidisciplinary Social Neuroscience Perspective (SIRG-SoNeAt) virtual conference workshop 2020
+
+**Dujols, O., Klein, R.A., Lindenberg, S., STRAEQ-2 team (a team of 152 authors), & IJzerman, H. (2020).** Development and validation of the Social Thermoregulation, Risk Avoidance, and Eating Questionnaire - 2 (STRAEQ-2) held for PSACON 2020
+
+**Dujols, O., Klein, R.A., Lindenberg, S., STRAEQ-2 team (a team of 152 authors), & IJzerman, H. (2020).** Development and validation of the Social Thermoregulation, Risk Avoidance, and Eating Questionnaire - 2 (STRAEQ-2) held for ICCE 2021
+
 **IJzerman, H., & Dujols, O. (2020).** Social thermoregulation in humans. Keynote for the Virtual Environmental Ergonomics Conference. Video available via YouTube. [Link](https://www.youtube.com/watch?v=uT-FaVzLYQM)
 
 **IJzerman, H. (2021).** Social thermoregulation in humans. Invited expert talk at the Mini-Conference on Attachment from a Social Neuroscience Perspective. Video available via the CORE Lab blog.[Link](https://www.dropbox.com/s/po7fb7pdayeck2u/social%20thermo%20talk%20mini%20conference%20attachment.mp4?dl=0)
