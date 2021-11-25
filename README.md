@@ -1,7 +1,17 @@
 # presentations-core-lab
 Included is a list of presentations and links to those presentations given by the Core Lab. For zip files, please install all files in one directory and run the html file. Lab members: You can edit this page directly on GitHub by clicking the pencil icon in the upper right. Simply upload your slides/files to GitHub or the OSF, then link them here (it's helpful to copy/paste and edit a prior entry).
 
+**IJzerman, H. (2021).** Lessons from the credibility revolution: Social thermoregulation as a case study. Invited talk for the AFC Lab Series, Université de Fribourg. Video available via the CORE Lab blog. [Link](https://corelab.blog/social-thermo-lesssons/)
+
 **CO-RE lab presentation template**. Standard PP template that members of the CO-RE lab use for their presentations and talks. Template is updated as of December 2020. [Link](https://github.com/co-relab/presentations-core-lab/blob/master/CORE%20LAB%20template%20%202020.pptx)
+
+**IJzerman, H., & Dujols, O. (2020).** Social thermoregulation in humans. Keynote for the Virtual Environmental Ergonomics Conference. Video available via YouTube. [Link](https://www.youtube.com/watch?v=uT-FaVzLYQM)
+
+**IJzerman, H. (2021).** Social thermoregulation in humans. Invited expert talk at the Mini-Conference on Attachment from a Social Neuroscience Perspective. Video available via the CORE Lab blog.[Link](https://www.dropbox.com/s/po7fb7pdayeck2u/social%20thermo%20talk%20mini%20conference%20attachment.mp4?dl=0)
+
+**IJzerman, H. (2021).** Gehechtheid en sociale thermoregulatie [Attachment and social thermoregulation]. Invited keynote at the 4th Annual Attachment Conference. Video under embargo.
+
+**IJzerman, H., Coles, N., & Holt-Lunstad, J. (2021).** The big team science movement ini psychology. Invited keynotes/panel discussions for the German Social Psychology Association.
 
 **Azouaghe, S.** (2020). Psychologie et science ouverte en Afrique : pourquoi est-elle nécessaire et comment peut-on l’implanter ? - CIMQUSEF-16 Rabat, 12-10-2020. [Link](https://github.com/co-relab/presentations-core-lab/blob/master/AZOUAGHE_CIMQUSEF-16_2020.pdf)
 
