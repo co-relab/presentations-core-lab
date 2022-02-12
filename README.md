@@ -3,6 +3,9 @@ Included is a list of presentations and links to those presentations given by th
 
 **CO-RE lab presentation template**. Standard PP template that members of the CO-RE lab use for their presentations and talks. Template is updated as of December 2020. [Link](https://github.com/co-relab/presentations-core-lab/blob/master/CORE%20LAB%20template%20%202020.pptx)
 
+**Sparacio, A.,** IJzerman, H., Ropovik, I., & Jiga-Boy, G., M. (2022). A large, multisite test of self-administered mindfulness
+. Talk presented at the social axe meeting - Université Grenoble Alpes. [Link](https://github.com/co-relab/presentations-core-lab/blob/master/Sparacio_Multi-site_project%20presentation-%20cognition%20axis.pptx)
+
 **Sparacio, A., Ropovik, I., Jiga-Boy, G., M., Forscher, P., S., Paris, B., & IJzerman, H. (2021).** Stress regulation via self-administered mindfulness and biofeedback interventions in adults: A pre-registered meta-analysis. ESCON Transfer of Knowledge Conference 2021: September 13 – 15, 2021
 
 **Sparacio, A., Ropovik, I., Jiga-Boy, G., M., Forscher, P., S., Paris, B., & IJzerman, H. (2021).** Stress regulation via self-administered mindfulness and biofeedback interventions in adults: A pre-registered meta-analysis [Flash talk session] 2021 APS Virtual Convention: May 26 - 27, 2021 [Link](https://corelab.blog/stress-meta-analysis1/)
