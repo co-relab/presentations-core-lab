@@ -1,7 +1,7 @@
 # presentations-core-lab
 Included is a list of presentations and links to those presentations given by the Core Lab. For zip files, please install all files in one directory and run the html file. Lab members: You can edit this page directly on GitHub by clicking the pencil icon in the upper right. Simply upload your slides/files to GitHub or the OSF, then link them here (it's helpful to copy/paste and edit a prior entry).
 
-**IJzerman, H. (2023).** A novel, network-based approach to social connection.** Invited keynote at Social Connectedness Workshop at Essex University. [Link] (https://www.dropbox.com/s/2bbw97co8976f6j/Esex%20Talk%20Social%20Connection.pptx?dl=0)
+**IJzerman, H. (2023).** A novel, network-based approach to social connection. Invited keynote at Social Connectedness Workshop at Essex University. [Link](https://www.dropbox.com/s/2bbw97co8976f6j/Esex%20Talk%20Social%20Connection.pptx?dl=0)
 
 **CO-RE lab presentation template**. Standard PP template that members of the CO-RE lab use for their presentations and talks. Template is updated as of December 2020. [Link](https://github.com/co-relab/presentations-core-lab/blob/master/CORE%20LAB%20template%20%202020.pptx)
 
